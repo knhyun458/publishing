@@ -17,8 +17,8 @@ export const LoginPage = () => {
       </div>
 
       <div className="mt-10">
-        <div className="bg-gray-800 text-white text-center py-4 rounded border mb-2">로그인</div>
-        <div className="text-center py-4 text-gray-800 border-gray-800 mt-2 rounded border">회원가입</div>
+        <div className="bg-gray-800 text-white text-center py-3 rounded h-12 mb-2">로그인</div>
+        <div className="text-center py-3 text-gray-800 border-gray-800 mt-2 h-12 rounded border">회원가입</div>
       </div>
     </div>
   );

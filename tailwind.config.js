@@ -26,6 +26,11 @@ module.exports = {
           800: '#333D4B',
           900: '#191F28',
         },
+        ivory: '#F2EFDE',
+        brown: '#795C32',
+        darkbrown: '#331800',
+        ivory2: '#E4D5C2',
+       
       },
       fontFamily: {
         sans: ['Pretendard', ...defaultTheme.fontFamily.sans],
