@@ -64,7 +64,7 @@ export const HomePage = () => {
             <div className="font-bold text-2xl text-darkbrown mb-2">
               Card title
             </div>
-            <div className="text-ivory2 text-md h-32">
+            <div className="text-ivory2 text-md h-32 whitespace-pre-line">
               저희 회사에서 가구를 구매하셨나요? 프리미엄 회원이 되셔서
               인테리어를 받아보세요. <br/>
               전 세계 어디서도 볼 수 없는 당신만을 위한
@@ -95,15 +95,15 @@ export const HomePage = () => {
               <div className="font-bold text-lg text-darkbrown">
                 회사원을 위한 의자
               </div>
-              <div className="text-md text-brown">
+              <div className="text-md text-brown whitespace-pre-line">
                 8시간, 하루의 3분의 1이라는 긴 시간동안 내 몸을 맡기는 가구.
-                지금의 선택이 당신의 건강을 좌우합니다. 이제 더이상 뻐근해하지
+                지금의 선택이 당신의 건강을 좌우합니다. <br/> 이제 더이상 뻐근해하지
                 마세요.
               </div>
               <div className="text-ivory2 text-sm">이화 신세계관</div>
             </div>
           </div>
-          <div className="border border-ivory2 w-full"></div>
+          <div className="border bg-ivory2 border-ivory2 w-full"></div>
           <div className="flex space-x-3">
             <img
               src="https://www.u-buy.jp/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9hc3IvMWMzOWE0OGMtODFiZC00MmRhLWI0MjUtODdmNmZlZmU1YTk2XzEuZmVmNTZmZGRlOGJmYjBlZGZlNjJmMGE4NTI1NGUxYzUuanBlZw.jpg"
@@ -112,9 +112,9 @@ export const HomePage = () => {
             />
             <div className="space-y-2">
               <div className="font-bold text-lg text-darkbrown">책상</div>
-              <div className="text-md text-brown">
+              <div className="text-md text-brown whitespace-pre-line">
                 정돈은 업무 효율을 위한 첫걸음입니다. EWHA Desks로 깔끔한 업무
-                환경을 마련해보세요. 당신은 이제 고속승진이 가능할겁니다.
+                환경을 마련해보세요. <br/> 이제 당신은 고속승진이 가능할겁니다.
               </div>
               <div className="text-ivory2 text-sm">이화 ECC B3</div>
             </div>
