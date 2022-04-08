@@ -119,6 +119,7 @@ export const HomePage = () => {
               <div className="text-ivory2 text-sm">이화 ECC B3</div>
             </div>
           </div>
+          <div className="border bg-ivory2 border-ivory2 w-full"></div>
         </div>
       </div>
 
