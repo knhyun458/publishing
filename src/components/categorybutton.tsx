@@ -20,7 +20,7 @@ export const CategoryButton: React.FC<CategoryButtonProps> = ({
         alt=""
         className="w-20 h-20 object-cover rounded-full"
       />
-      <div className="text-center text-darkbrown font-bold">{category}</div>
+       <div className="text-center text-darkbrown font-bold">{category.label}</div> 
     </div>
   );
 };

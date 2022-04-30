@@ -22,7 +22,7 @@ export const MovieCard: React.FC<MovieCardProps> = ({movie}) => {
               <div className="text-md text-brown truncate-2-lines">
                 {movie.overview}
               </div>
-              <div className="text-ivory2 text-sm">(`평점: ${movie.vote_average}`)</div>
+              <div className="text-ivory2 text-sm">평점: ${movie.vote_average}</div>
             </div>
           </div>
     )
